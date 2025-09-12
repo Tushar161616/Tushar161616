@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
+- 👨‍💻 All of my projects are available at  <a href="https://portfolio-ten-flax-68.vercel.app/">Portfolio Website</a>
 
 - 📫 How to reach me **Sharmatushar0688@gmail.com**
 
-- 📄 Know about my experiences [Resume link](Resume link)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
